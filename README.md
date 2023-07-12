@@ -1,0 +1,1 @@
+# Franconia Soaring Database
